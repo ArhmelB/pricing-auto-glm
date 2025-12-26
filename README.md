@@ -11,9 +11,9 @@ L’objectif est la mise en œuvre de modèles GLM
 ---
 
 ## Données
-Les données utilisées proviennent des jeux de données freMPL2 de la base de données de référence CASdataset.
+Les données utilisées proviennent des jeux de données freMTPL2 de la base de données de référence CASdataset.
 
-Elles ne sont pas incluses dans ce dépôt mais sont accessibles à l'adresse : "https://github.com/dutangc/CASdatasets/blob/master/data/freMPL2.rda".
+Elles ne sont pas incluses dans ce dépôt mais sont accessibles aux adresses : "https://github.com/dutangc/CASdatasets/blob/master/data/freMTPL2freq.rda" et "https://github.com/dutangc/CASdatasets/blob/master/data/freMTPL2sev.rda" .
 
 Pour reproduire les résultats: 
 - extraire les fichiers csv de R
