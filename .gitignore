@@ -1,0 +1,23 @@
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données (non publiées)
+datasets/
+data/
+*.csv
+unmatched_claims_removed.csv
+
+# Fichiers générés
+*.log
+
+# MacOS
+.DS_Store
+
+# VS Code
+.vscode/
